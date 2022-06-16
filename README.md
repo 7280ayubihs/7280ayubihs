@@ -1,4 +1,4 @@
-### こんにちは！👋
+### Hi there 👋
 
 <!--
 **7280ayubihs/7280ayubihs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
