@@ -7,7 +7,7 @@ This `README.md` is written in Japanese because I am Japanese.
 ※一時的に、全リポジトリを非公開にしています。
 
 ### 私の考え方
-私と仕事をする方は、お互いの理解を深めるため、[こちらの文章](https://github.com/7280ayubihs/detail/MYTHOUGHTS.md)を読んでください。
+私と仕事をする方は、お互いの理解を深めるため、[こちらの文章](https://github.com/7280ayubihs/7280ayubihs/blob/main/detail/MYTHOUGHTS.md)を読んでください。
 
 ### その他
 
