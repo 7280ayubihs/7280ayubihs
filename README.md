@@ -3,14 +3,13 @@ This `README.md` is written in Japanese because I am Japanese.
 
 ### ようこそ！
 学習の記録や、ちょっとしたツールを残すためにGithubを使っています。<br>
-コピペのご利用は、自己責任でご自由にどうぞ。
+コピペのご利用は、自己責任でご自由にどうぞ。<br>
 ※一時的に、全リポジトリを非公開にしています。
 
 ### 私の考え方
 私と仕事をする方は、お互いの理解を深めるため、[こちらの文章](https://github.com/7280ayubihs/7280ayubihs/blob/main/detail/MYTHOUGHTS.md)を読んでください。
 
 ### その他
-
 |key|value|
 |---|---|
 |Qiita|[@7280ayubihs](https://qiita.com/7280ayubihs)|
