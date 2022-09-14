@@ -3,17 +3,16 @@ This `README.md` is written in Japanese because I am Japanese.
 
 ### ようこそ！
 学習の記録や、ちょっとしたツールを残すためにGithubを使っています。<br>
-コピペのご利用は、自己責任でご自由にどうぞ。<br>
-※一時的に、全リポジトリを非公開にしています。
+コピペのご利用は、自己責任でご自由にどうぞ。
 
 ### 仕事に対しての考え方
 私と仕事をする方は、お互いの理解を深めるため、[この文章](https://github.com/7280ayubihs/7280ayubihs/blob/main/detail/MYTHOUGHTS.md)をご一読いただけますと幸いです。
 
 ### その他
-|key|value|
-|---|---|
-|Qiita|[@7280ayubihs](https://qiita.com/7280ayubihs)|
-|随時、追加予定？|||
+|key|value|note|
+|---|---|---|
+|Qiita|[@7280ayubihs](https://qiita.com/7280ayubihs)|ちょっとした自分用備忘録を稀に投稿|
+|Twitter|[@7280ayubihs](https://twitter.com/7280ayubihs)|ただのゲームアカウント|
 
 <!--
 **7280ayubihs/7280ayubihs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
