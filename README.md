@@ -8,6 +8,12 @@ This `README.md` is written in Japanese because I am Japanese.
 ### 仕事に対しての考え方
 私と仕事をする方は、お互いの理解を深めるため、[この文章](https://github.com/7280ayubihs/7280ayubihs/blob/main/detail/MYTHOUGHTS.md)をご一読いただけますと幸いです。
 
+### Youtube Playlist
+|link|note|
+|----|----|
+|[サーモンラン NEXT WAVE ライブ配信アーカイブ](https://youtube.com/playlist?list=PLEefuiF-8JvF8jrtApez4wz6MzzKGUvPb)|スプラトゥーン３サーモンランNWのライブ配信アーカイブです。実況はしてません。|
+
+
 ### その他
 |key|value|note|
 |---|---|---|
