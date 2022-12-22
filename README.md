@@ -18,8 +18,7 @@ This `README.md` is written in Japanese because I am Japanese.
 |key|value|note|
 |---|---|---|
 |Qiita|[@7280ayubihs](https://qiita.com/7280ayubihs)|ちょっとした自分用備忘録を稀に投稿|
-|Twitter|[@7280ayubihs](https://twitter.com/7280ayubihs)|ただのゲームアカウント|
-
+<!--|Twitter|[@7280ayubihs](https://twitter.com/7280ayubihs)|ただのゲームアカウント|-->
 <!--
 **7280ayubihs/7280ayubihs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
