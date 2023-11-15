@@ -11,14 +11,15 @@ This `README.md` is written in Japanese because I am Japanese.
 ### Youtube Playlist
 |link|note|
 |----|----|
-|[サーモンランNW ライブ配信アーカイブ](https://youtube.com/playlist?list=PLEefuiF-8JvF8jrtApez4wz6MzzKGUvPb)|スプラトゥーン３サーモンランNWのライブ配信アーカイブです。実況はしてません。|
-|[サーモンランNW ビッグラン ライブ配信アーカイブ](https://www.youtube.com/playlist?list=PLEefuiF-8JvH1XidG2ypsB5bEW2LnLlUN)|スプラトゥーン３ビッグランのライブ配信アーカイブです。実況はしてません。|
+|[サーモンランNW ライブ配信アーカイブ](https://youtube.com/playlist?list=PLEefuiF-8JvF8jrtApez4wz6MzzKGUvPb)|スプラトゥーン３サーモンランNWのライブ配信アーカイブです。<br>実況はしてません。|
+|[サーモンランNW クマフェス ライブ配信アーカイブ](https://www.youtube.com/playlist?list=PLEefuiF-8JvEzpdyDTeNBzfQgrki3dRo-)|スプラトゥーン３ビッグランのライブ配信アーカイブです。<br>実況はしてません。|
+|[サーモンランNW ビッグラン ライブ配信アーカイブ](https://www.youtube.com/playlist?list=PLEefuiF-8JvH1XidG2ypsB5bEW2LnLlUN)|スプラトゥーン３ビッグランのライブ配信アーカイブです。<br>実況はしてません。|
 
 ### その他
 |key|value|note|
 |---|---|---|
 |Qiita|[@7280ayubihs](https://qiita.com/7280ayubihs)|ちょっとした自分用備忘録を稀に投稿|
-|Twitter|[@7280ayubihs](https://twitter.com/7280ayubihs)|ただのゲーム記録用アカウント|
+|X（旧Twitter）|[@7280ayubihs](https://twitter.com/7280ayubihs)|ただのゲーム記録用アカウント|
 
 <!--
 **7280ayubihs/7280ayubihs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
